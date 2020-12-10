@@ -1,0 +1,1 @@
+This is an example of actual testing of Schneider device (M340). We commented out the sniffing part and provided a real traffic. This test example is for the new version of the UMAS protocol. It has an anti-replay mechanism like Session ID, which we have bypassed.
